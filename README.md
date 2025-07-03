@@ -5,15 +5,15 @@
 
 ---
 
-## 💡 About Me
+## 💻 About Me
 
-I'm a frontend developer with a passion for clean code, modern UI ✨, and accessibility.  
-I focus on building responsive 📱, user-friendly 🌐 web applications using technologies like **Angular**, **TypeScript**, and **Firebase** 🔥.
+I'm a passionate frontend developer with an eye for clean design and accessibility.  
+Originally trained as a tailor, I now bring precision and structure into the world of code.
 
-I enjoy solving real-world problems through code 🧠, turning ideas into intuitive interfaces 🎯, and continuously expanding my skills 📚.  
-Whether it’s refining a single-page app or creating something from scratch — I’m all about structure 🧩, performance ⚡, and great user experience 🙌.
+Currently, I'm focused on building interactive, responsive web apps using modern frontend technologies like **Angular** and **Firebase**.  
+I love solving real-world problems with code, learning every day, and collaborating on creative digital projects.
+
 ---
-
 ## 📚 What I'm Learning
 
 ✅ 12+ hands-on projects as part of the Developer Akademie curriculum  
